@@ -25,6 +25,10 @@ header h1 {
     font-size: 20px;
 }
 
-section{
+section#cover{
     text-align: center;
+}
+
+section#listado-tours{
+    background-color: red;
 }
