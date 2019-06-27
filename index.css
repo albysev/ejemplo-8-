@@ -20,6 +20,11 @@ header ul li {
 
 header h1 {
     margin: 0;
-    width: 35%;
+    width: 38%;
     display: inline-block;
+    font-size: 20px;
+}
+
+section{
+    text-align: center;
 }
